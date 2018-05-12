@@ -1,0 +1,29 @@
+_repo: Jakob-von-Gunten--Ein-Tagebuch_24176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walser, Robert
+    birthdate: 1878
+    deathdate: 1956
+    gutenberg_agent_id: '26294'
+    url: http://www.gutenberg.org/2009/agents/26294
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Walser_%28writer%29
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24176'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcsh 'Berlin (Germany) -- Fiction'
+- !lcc 'PT'
+title: 'Jakob von Gunten: Ein Tagebuch'
+url: http://www.gutenberg.org/ebooks/24176
